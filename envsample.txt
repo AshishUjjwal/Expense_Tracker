@@ -1,0 +1,6 @@
+
+MONGO_URI=
+
+SESSION_SECRET=
+Password=
+DB_NAME=
